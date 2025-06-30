@@ -45,7 +45,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
-		<dc:language>LANG</dc:language>
+		<dc:language>en-US</dc:language>
 		<dc:source>https://www.google.com/books/edition/Adam_s_Breed/pstLAAAAIAAJ</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
