@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/radclyffe-hall/adams-breed</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-07-21T18:29:57Z</dc:date>
+		<meta property="dcterms:modified">2025-07-21T18:29:57Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -41,14 +41,17 @@
 		<meta id="collection-2" property="belongs-to-collection">Prix Femina—Vie Heureuse Winners</meta>
 		<meta property="collection-type" refines="#collection-2">series</meta>
 		<meta property="group-position" refines="#collection-2">8</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The child of an Italian immigrants struggles to find meaning in Edwardian-era London.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Olga Boselli, a young Italian woman who immigrated to London with her parents at the turn of the century, dies during childbirth. Her son, Gian-Luca, is raised by his grandparents, but his grandmother, a hard woman with a nose for business resents him—and God—for taking the life of her daughter.&lt;/p&gt;
+			&lt;p&gt;As Gian-Luca comes of age, he struggles to find an identity and meaning in his life. His grandmother, the mother figure in his life, is cold; he grows up in an Italian ghetto, and so feels simultaneously apart from his English peers, but neither entirely fitting in with the culture of the Italian immigrants around him.&lt;/p&gt;
+			&lt;p&gt;He turns to poetry to help fill that void, and then later, to work as a waiter at an elegant restaurant. But even after he marries a loving woman who treats him like a king, he still feels unmoored from the society around him—and then World War I begins, sending him spiraling into a repulsion for food and the life he’s found himself in.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Adam’s Breed&lt;/i&gt; was a critically-acclaimed bestseller in its day, earning both the &lt;a href="https://standardebooks.org/collections/james-tait-black-memorial-fiction-prize-winners"&gt;James Tait Black Memorial Fiction Prize&lt;/a&gt; and the &lt;a href="https://standardebooks.org/collections/prix-femina-vie-heureuse-winners"&gt;Prix Femina—Vie Heureuse&lt;/a&gt;. Its plot has been compared favorably to &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/hermann-hesse/siddhartha/gunther-olesch_anke-dreher_amy-coulter_stefan-langer_semyon-chaichenets"&gt;Siddhartha&lt;/a&gt;&lt;/i&gt;, another bildungsroman centered in the search for religious meaning.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.google.com/books/edition/Adam_s_Breed/pstLAAAAIAAJ</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">132220</meta>
+		<meta property="se:reading-ease.flesch">68.4</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Adam%27s_Breed</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/radclyffe-hall_adams-breed</meta>
 		<dc:creator id="author">Radclyffe Hall</dc:creator>
