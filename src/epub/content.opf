@@ -41,7 +41,7 @@
 		<meta id="collection-2" property="belongs-to-collection">Prix Femina—Vie Heureuse Winners</meta>
 		<meta property="collection-type" refines="#collection-2">series</meta>
 		<meta property="group-position" refines="#collection-2">8</meta>
-		<dc:description id="description">The child of an Italian immigrants struggles to find meaning in Edwardian-era London.</dc:description>
+		<dc:description id="description">The child of Italian immigrants struggles to find meaning in Edwardian-era London.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Olga Boselli, a young Italian woman who immigrated to London with her parents at the turn of the century, dies during childbirth. Her son, Gian-Luca, is raised by his grandparents, but his grandmother, a hard woman with a nose for business, resents him—and God—for taking the life of her daughter.&lt;/p&gt;
 			&lt;p&gt;As Gian-Luca comes of age, he struggles to find an identity and meaning in his life. His grandmother, the mother figure in his life, is cold; he grows up in an Italian ghetto, and so feels simultaneously apart from his English peers, but neither entirely fitting in with the culture of the Italian immigrants around him.&lt;/p&gt;
