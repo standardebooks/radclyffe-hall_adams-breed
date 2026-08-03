@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/radclyffe-hall/adams-breed</dc:identifier>
 		<dc:date>2025-07-21T18:29:57Z</dc:date>
@@ -43,13 +43,13 @@
 		<meta id="collection-2" property="belongs-to-collection">Prix Femina—Vie Heureuse Winners</meta>
 		<meta property="collection-type" refines="#collection-2">series</meta>
 		<meta property="group-position" refines="#collection-2">8</meta>
-		<dc:description id="description">The child of Italian immigrants struggles to find meaning in Edwardian-era London.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>The child of Italian immigrants struggles to find meaning in Edwardian-era London.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Olga Boselli, a young Italian woman who immigrated to London with her parents at the turn of the century, dies during childbirth. Her son, Gian-Luca, is raised by his grandparents, but his grandmother, a hard woman with a nose for business, resents him—and God—for taking the life of her daughter.&lt;/p&gt;
 			&lt;p&gt;As Gian-Luca comes of age, he struggles to find an identity and meaning in his life. His grandmother, the mother figure in his life, is cold; he grows up in an Italian ghetto, and so feels simultaneously apart from his English peers, but neither entirely fitting in with the culture of the Italian immigrants around him.&lt;/p&gt;
 			&lt;p&gt;He turns to poetry to help fill that void, and then later, to work as a waiter at an elegant restaurant. But even after he marries a loving woman who treats him like a king, he still feels unmoored from the society around him—and then World War I begins, sending him spiraling into a repulsion for food and the life he’s found himself in.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Adam’s Breed&lt;/i&gt; was a critically acclaimed bestseller in its day, earning both the &lt;a href="https://standardebooks.org/collections/james-tait-black-memorial-fiction-prize-winners"&gt;James Tait Black Memorial Fiction Prize&lt;/a&gt; and the &lt;a href="https://standardebooks.org/collections/prix-femina-vie-heureuse-winners"&gt;Prix Femina—Vie Heureuse&lt;/a&gt;. Its plot has been compared favorably to &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/hermann-hesse/siddhartha/gunther-olesch_anke-dreher_amy-coulter_stefan-langer_semyon-chaichenets"&gt;Siddhartha&lt;/a&gt;&lt;/i&gt;, another bildungsroman focusing on the search for religious meaning.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.google.com/books/edition/Adam_s_Breed/pstLAAAAIAAJ</dc:source>
 		<meta property="schema:wordCount">131505</meta>
